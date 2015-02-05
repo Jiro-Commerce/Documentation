@@ -5,20 +5,10 @@
 - Getting Started
     - [Installation](/docs/0.1.0/installation)
     - [Configuration](/docs/0.1.0/configuration)
-    - [Routing](/docs/0.1.0/routing)
-    - [Requests & Input](/docs/0.1.0/requests)
-    - [Views & Responses](/docs/0.1.0/responses)
-    - [Controllers](/docs/0.1.0/controllers)
-    - [Errors & Logging](/docs/0.1.0/errors)
 - Learn More
 	- [Product](/docs/0.1.0/product)
 - Components
     - [Product](/docs/0.1.0/product)
-    - [Property](/docs/0.1.0/product)
-    - [Variation](/docs/0.1.0/product)
-    - [Support](/docs/0.1.0/billing)
-- Database
-    - [Migrations & Seeding](/docs/0.1.0/migrations)
-    - [Redis](/docs/0.1.0/redis)
-- Artisan CLI
-    - [Overview](/docs/0.1.0/artisan)
+    - [Property](/docs/0.1.0/property)
+    - [Variation](/docs/0.1.0/variation)
+    - [Support](/docs/0.1.0/support)
